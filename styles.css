@@ -1,0 +1,22 @@
+*, *::before, *::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* COLOURS */
+:root{
+    --font-white: hsl(0, 0%, 100%);
+    --font-offwhite: hsl(0, 0%, 81%);
+
+    --bg-main: hsl(218, 28%, 13%);
+    /* INTRO & Email Sign Up Background */
+    --bg-sub-main: hsl(217, 28%, 15%); 
+
+    --bg-testimonial:hsl(219, 30%, 18%);
+    --bg-footer: hsl(216, 53%, 9%);
+
+    --accent-cyan: hsl(176, 68%, 64%);
+    --accent-blue: hsl(198, 60%, 50%);
+}
+
